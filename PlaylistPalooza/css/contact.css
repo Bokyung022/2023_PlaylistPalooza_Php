@@ -1,0 +1,121 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main {
+  padding: 150px;
+  color: white;
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main h1 {
+  font-family: "Bebas Neue";
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+}
+
+.vision {
+  background-color: #fff0df;
+  padding: 80px;
+}
+
+.vision p {
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+}
+
+.vision h2 {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+.info {
+  background-color: #b4aaa9;
+  padding: 80px;
+  font-family: "Montserrat";
+}
+
+.info-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1000px;
+  margin: 0 auto; /* To center the row horizontally */
+}
+
+.info-column {
+  float: left;
+  width: 25%;
+  padding: 0 8px;
+}
+
+.info-card {
+  margin: 8px;
+  text-align: center;
+}
+
+.info-container {
+  padding: 15px;
+}
+
+.info-container h3 {
+  font-size: 20px;
+}
+
+.info-content {
+  color: white;
+}
+
+.info-container::after,
+.info-row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.contact-container {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat";
+  background-color: #fff0df;
+}
+
+.contact {
+  max-width: 600px;
+  width: 80%;
+  margin: 20px;
+}
+
+.contact h2 {
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .contact-container {
+    padding: 20px; /* Add some spacing on smaller screens */
+  }
+
+  /* Center align text in value cards on smaller screens */
+  .info-card {
+    text-align: center;
+  }
+
+  .info-row {
+    flex-direction: column; /* Stack value cards vertically on smaller screens */
+  }
+
+  .info-column {
+    width: 100%; /* Full width for value columns on smaller screens */
+    margin: 10px 0; /* Adjust margins for spacing */
+  }
+}

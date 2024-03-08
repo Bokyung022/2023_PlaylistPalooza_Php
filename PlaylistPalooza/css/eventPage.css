@@ -1,0 +1,52 @@
+body {
+  background-color: #fff0df;
+}
+
+.row img {
+  padding-top: 2% !important;
+}
+
+.row .eventInfo {
+  padding-top: 2% !important;
+}
+
+/* Styling for EVENT INFO Starts Here*/
+/* ------------------------------- */
+#eventInfo {
+  padding-top: 8% !important;
+}
+
+#eventInfo h2 {
+  font-weight: bold;
+  font-size: 300%;
+  padding-bottom: 1%;
+}
+
+#eventInfo h5 {
+  padding-bottom: 3%;
+}
+
+#eventInfo button {
+  margin-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.ticketForm {
+  padding-top: 5%;
+}
+
+.ticketForm label {
+  font-size: 125%;
+  padding-bottom: 1%;
+}
+
+.otherEvents h2 {
+  padding-top: 5%;
+  font-weight: 600;
+}
+
+/* ------------------------------- */
+/* Styling for EVENT INFO Ends Here*/
