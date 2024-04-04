@@ -38,24 +38,24 @@ This web application is built using the following technologies and frameworks:
 
 ## Screenshot - Home
 
-<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/0f63d5dd-a707-4e9e-95e9-b257d75c96b0" width="500"/>
+<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/0f63d5dd-a707-4e9e-95e9-b257d75c96b0" width="600"/>
 
 ## Screenshot - Event
 
-<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/69913641-5c12-4632-86d1-13e23c20c597" width="500"/>
+<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/69913641-5c12-4632-86d1-13e23c20c597" width="600"/>
 
 ## Screenshot - Listing
 
-<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/0b7806a0-3ddd-41e2-95ad-f696f20ba639" width="500"/>
+<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/0b7806a0-3ddd-41e2-95ad-f696f20ba639" width="600"/>
 
 ## Screenshot - Checkout
 
-<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/22457070-6409-40eb-9fa8-2bc4d2d1fc59" width="500"/>
+<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/22457070-6409-40eb-9fa8-2bc4d2d1fc59" width="600"/>
 
 ## Screenshot - Ticket History
 
-<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/75b82185-6d80-47e6-b3cc-0dcc4f13baa6" width="500"/>
+<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/75b82185-6d80-47e6-b3cc-0dcc4f13baa6" width="600"/>
 
 ## Screenshot - About Us
 
-<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/b5529ec7-f200-48ac-a19c-161238c6e7bd" width="500"/>
+<img src="https://github.com/sophiephie/PlaylistPalooza/assets/137083785/b5529ec7-f200-48ac-a19c-161238c6e7bd" width="600"/>
