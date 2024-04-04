@@ -1,4 +1,5 @@
 # PlaylistPalooza - Musical Concert Booking Application
+Authors: Bo Kyung Kim, Sophie Hsu, Comeau Nicholas / John Abbott College FSD-10
 
 ## Application Url
 
