@@ -20,19 +20,19 @@ This web application is built using the following technologies and frameworks:
 
 ## Features
 
-1. User Authentication:
+1. User Authentication
 - Secure user authentication system allowing registered users to log in.
 - Personalized user experience based on login status.
 
-2. Navigation Menu:
+2. Navigation Menu
 - A responsive navigation menu that adapts based on the user's login status.
 - Displays relevant links such as "Home," "About Us," and either "Log Out" or "Sign In" based on the user's authentication state.
 
-3. Concert Booking:
+3. Concert Booking
 - Innovative concert booking functionality allowing users to discover and book upcoming events.
 - Explore a diverse range of concerts and events with detailed information on artists, venues, and dates.
 
-4. Search Functionality:
+4. Search Functionality
 - A search bar at the top of the page for quick and easy music discovery.
 - Users can input search queries to find their favorite artists, upcoming concerts, or specific events.
 
